@@ -1,0 +1,14 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:PrintObject.4dbase:PrintObject[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Documents:PrintObject.4dbase:PrintObject[0000].4BL
+Scheduled : 13/05/28 17:33:22
+Starting : 13/05/28 17:33:22
+Ending : 13/05/28 17:33:22
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:PrintFormPrintObjectCombo.4dbase:PrintFormPrintObjectCombo[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Documents:PrintFormPrintObjectCombo.4dbase:PrintFormPrintObjectCombo[0000].4BL
+Scheduled : 13/05/28 17:42:46
+Starting : 13/05/28 17:42:46
+Ending : 13/05/28 17:42:46
+
